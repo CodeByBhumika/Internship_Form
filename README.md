@@ -1,4 +1,4 @@
-#Internship Application Form 📋
+Internship Application Form 📋
 
 This repository contains the Google Form created for collecting applications for an internship program. The form is designed to gather essential details from applicants such as personal information, educational background, skills, and availability.
 
